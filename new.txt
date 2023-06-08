@@ -1,0 +1,5 @@
+Name Anzhelika
+Surname Melnik
+Age 27
+Animals Cat (Name Markiz, Age 15)
+Salary 2000 euro
