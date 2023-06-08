@@ -1,0 +1,6 @@
+Favorite movie: Home Alone;
+Favorite TV series: Descendants of the Sun;
+Favorite food: Zeppelins, sushi, pizza;
+Favorite time of the year: Summer;
+Country you would like to visit: Switzerland.
+

@@ -1,0 +1,1 @@
+"Skills": "Terminal, Postman, SQL, Git, JS
